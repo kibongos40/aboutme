@@ -32,7 +32,7 @@
     font-size: 40px;
     color: green;
     text-align: center;
-    background: url("images/bg.jpg");
+    background: url("../images/bg.jpg");
     width: 100%;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -49,7 +49,7 @@
     padding-top: 60px;
 }
 .about{
-    background: url('images/about.png');
+    background: url('../images/about.png');
     width: 100%;
     clear: both;
     height: 420px;
@@ -90,7 +90,7 @@
     font-family: arial;
 }
 .contact{
-    background: url("images/contact.jpg");
+    background: url("../images/contact.jpg");
 }
 .contact label{
     font-size: 40px;
